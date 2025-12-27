@@ -18,9 +18,13 @@
 ## Tech Stack
 <div align="center">
 
-`Python` · `C/C++`  
-`PyTorch`  
-`Linux (Ubuntu)` · `Docker`
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/C/C++-00599C?style=flat&logo=cplusplus&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
 
 </div>
 
@@ -35,14 +39,15 @@
 
 ---
 
-## GitHub Grass
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WooSungHyeon03&show_icons=false&hide_title=true&hide_border=true&theme=transparent" width="47%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=WooSungHyeon03&theme=transparent&hide_border=true" width="47%">
-</div>
-
----
-
 ## Contact
-- `wshyun314@gmail.com`  
-- https://woosunghyeon03.github.io
+<div align="center">
+
+<a href="mailto:wshyun314@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://woosunghyeon03.github.io">
+  <img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=githubpages&logoColor=white">
+</a>
+
+</div>
