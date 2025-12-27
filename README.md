@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <img src="https://github.com/WooSungHyeon03/WooSungHyeon03.github.io/blob/main/assets/img/picture.jpg" width="90">
 
   ### **Woo SungHyun**
@@ -16,38 +16,34 @@
 ---
 
 ## Tech Stack
-<div align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/C/C++-00599C?style=flat&logo=cplusplus&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
+### Languages
+- <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">  
+- <img src="https://img.shields.io/badge/C/C++-00599C?style=flat&logo=cplusplus&logoColor=white">
 
-</div>
+### Framework & Libraries
+- <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
+
+### OS & Tools
+- <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">  
+- <img src="https://img.shields.io/badge/conda-44A833?style=flat&logo=anaconda&logoColor=white">  
+- <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">  
+- <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
 
 ---
 
-## BOJ
-<div align="center">
-  <a href="https://solved.ac/wshyun314">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wshyun314" width="45%">
+## BOJ Tier
+- <a href="https://solved.ac/wshyun314">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wshyun314" width="200">
   </a>
-</div>
 
 ---
 
-## Contact
-<div align="center">
+## Blog
 
-<a href="mailto:wshyun314@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white">
-</a>
+### Latest Posts
+> 자동 업데이트 가능 (GitHub Actions 사용)
 
-<a href="https://woosunghyeon03.github.io">
-  <img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=githubpages&logoColor=white">
-</a>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-</div>
