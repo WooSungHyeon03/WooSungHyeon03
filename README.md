@@ -19,32 +19,12 @@
 ---
 
 ## Focus
+- **3D Vision**
 - **3D Reconstruction**
-- **3D Gaussian Splatting**
-- **NeRF / Novel View Synthesis**
+- **Novel View Synthesis**
 
 ---
 
-## Keywords
-`3D Vision` `Implicit/Splat Representations` `COLMAP`  
-`PyTorch` `CUDA` `Docker` `Ubuntu`
 
----
 
-## Latest Posts
-<!-- BLOG-POST-LIST:START -->
-- [Another Sample Life Post](https://woosunghyeon03.github.io/posts/life-sample-2/)
-- [Sample Study Post](https://woosunghyeon03.github.io/posts/study-sample/)
-- [일상 이야기 샘플](https://woosunghyeon03.github.io/posts/life-sample/)
-- [3D Vision 논문 리뷰 샘플](https://woosunghyeon03.github.io/posts/paper-review-3d-vision-sample/)
-- [Computer Vision 논문 리뷰 샘플](https://woosunghyeon03.github.io/posts/paper-review-computer-vision-sample/)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WooSungHyeon03&show_icons=false&hide_title=true&hide_border=true&theme=transparent" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=WooSungHyeon03&theme=transparent&hide_border=true" width="48%">
-</div>
 
