@@ -6,7 +6,7 @@
 <td>
 
 ### **Woo SungHyeon**  
-Undergraduate Researcher @ M4ML  
+Undergraduate Student @ M4ML  
 Computer Engineering, Dong-A University
 
 </td>
