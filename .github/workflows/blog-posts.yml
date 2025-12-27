@@ -2,8 +2,11 @@ name: Update README with blog posts
 
 on:
   schedule:
-    - cron: '0 */12 * * *'  # 12시간마다 한 번씩 실행
-  workflow_dispatch:        # 필요하면 수동 실행도 가능
+    - cron: '0 */12 * * *'  # 12시간마다 실행
+  workflow_dispatch:        # 수동 실행 가능
+
+permissions:
+  contents: write           # <-- 요 줄이 핵심!
 
 jobs:
   update-blog-posts:
@@ -11,7 +14,7 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4     # v4로 업데이트
 
       - name: Update README with latest blog posts
         uses: gautamkrishnar/blog-post-workflow@master
