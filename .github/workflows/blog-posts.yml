@@ -1,14 +1,21 @@
 name: Update README with blog posts
+
 on:
   schedule:
-    - cron: '0 */12 * * *'
-  workflow_dispatch:
+    - cron: '0 */12 * * *'  # 12시간마다 한 번씩 실행
+  workflow_dispatch:        # 필요하면 수동 실행도 가능
 
 jobs:
   update-blog-posts:
     runs-on: ubuntu-latest
+
     steps:
-    - uses: actions/checkout@v3
-    - uses: gautamkrishnar/blog-post-workflow@master
-      with:
-        feed_list: "https://woosunghyeon03.github.io/feed.xml"
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Update README with latest blog posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://woosunghyeon03.github.io/feed.xml"
+          max_post_count: 5
+          commit_message: "chore: update blog posts in README"
