@@ -48,9 +48,9 @@ Latest posts
 
 <!-- BLOG-POST-LIST:START -->
 - [study-sample](https://woosunghyeon03.github.io/posts/study-sample/)
+- [Comparative Study on the Performance of NeRF and 3DGS based models](https://woosunghyeon03.github.io/posts/Comparative-Study-on-the-Performance-of-NeRF-and-3DGS-based-models/)
 - [Life-sample](https://woosunghyeon03.github.io/posts/life-sample/)
 - [paper-review-3d-vision-sample](https://woosunghyeon03.github.io/posts/paper-review-3d-vision-sample/)
-- [paper-review-computer-vision-sample](https://woosunghyeon03.github.io/posts/paper-review-computer-vision-sample/)
 <!-- BLOG-POST-LIST:END -->
 
 
