@@ -47,10 +47,10 @@ Computer Engineering, Dong-A University
 Latest posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [[Paper Review] Segment Anything](https://woosunghyeon03.github.io/posts/Segment-Anything/)
+- [[Paper Review] Attention is all you need](https://woosunghyeon03.github.io/posts/Attention-is-all-you-need/)
 - [[Sample] Daily Life](https://woosunghyeon03.github.io/posts/life-sample/)
 - [[Sample] Study Notes](https://woosunghyeon03.github.io/posts/study-sample/)
-- [Comparative Study on the Performance of NeRF and 3DGS based models](https://woosunghyeon03.github.io/posts/Comparative-Study-on-the-Performance-of-NeRF-and-3DGS-based-models/)
-- [[Sample] 3D Vision Paper Review](https://woosunghyeon03.github.io/posts/paper-review-3d-vision-sample/)
 <!-- BLOG-POST-LIST:END -->
 
 
