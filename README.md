@@ -47,10 +47,10 @@ Computer Engineering, Dong-A University
 Latest posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [[Paper Review] Mip-Splatting: Alias-free 3D Gaussian Splatting](https://woosunghyeon03.github.io/posts/Mip-Splatting/)
 - [[Life] 창업에 대하여](https://woosunghyeon03.github.io/posts/About-Startup/)
 - [[Paper Review] Clean-GS: Semantic Mask-Guided Pruning for 3D Gaussian Splatting](https://woosunghyeon03.github.io/posts/Clean-GS/)
 - [[Study] pinhole camera model](https://woosunghyeon03.github.io/posts/pinhole-camera-model/)
-- [[Life] 논문 세미나에 대하여](https://woosunghyeon03.github.io/posts/about-paper-seminar/)
 <!-- BLOG-POST-LIST:END -->
 
 
